@@ -1,0 +1,35 @@
+# Large trajectory files (>100MB)
+Frankel2_md_298K.traj
+YBa2Cu3O7_md_298K.traj
+Vacancy_md_298K.traj
+Frankel_md_298K.traj
+Interstitial_md_298K.traj
+YBa2Cu3O7_553_Frenkel3.traj
+yba553_md_30K.traj
+
+# Large xyz files (>100MB)
+Frankel_md_298K.xyz
+Interstitial_113.xyz
+Interstitial_md_298K.xyz
+YBa2Cu3O7_553_Frenkel3.xyz
+block2_113.xyz
+block_113.xyz
+block_331.xyz
+block_333.xyz
+yba553_md_30K.xyz
+
+# MACE model files (re-download with mace_mp)
+*.model
+
+# MACE source (clone from GitHub if needed)
+mace/
+
+# VESTA installer
+VESTA.dmg
+
+# macOS
+__MACOSX/
+.DS_Store
+
+# Zone Identifier files (Windows/WSL)
+*:Zone.Identifier
