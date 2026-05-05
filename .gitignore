@@ -6,6 +6,7 @@ Frankel_md_298K.traj
 Interstitial_md_298K.traj
 YBa2Cu3O7_553_Frenkel3.traj
 yba553_md_30K.traj
+YBa2Cu3O7_553_Frenkel4.traj
 
 # Large xyz files (>100MB)
 Frankel_md_298K.xyz
