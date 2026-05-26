@@ -1,0 +1,2 @@
+case_id,traj_file,frame,time_ps,tracked_oi_atom_index,tracked_oi_to_vacancy_distance_A,nearest_O_to_vacancy_site_atom_index,nearest_O_to_vacancy_site_distance_A,vacancy_site_occupied,occupied_O_Cu_coordination,coordination_recovered
+F1,Frankel_md_77K.traj,0,0.000000,742,0.000000,742,0.000000,1,2,1

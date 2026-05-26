@@ -1,0 +1,5 @@
+case_id,log_file,status,n_rows,n_unique_times,time_start_ps,time_end_ps,T_mean_all_K,T_mean_second_half_K,T_final_K,Epot_initial_eV,Epot_final_eV
+F1,Frankel_md_298k.log,ok,5001,5001,0.000000,2.500000,245.047,292.871,296.700,-6045.444000,-6013.449000
+F2,Frankel2_md_298k.log,ok,8825,8825,0.000000,4.412000,268.035,301.239,292.900,-6044.843000,-6011.042000
+F3,YBa2Cu3O7_553_Frenkel3.log,ok,2771,2546,0.000000,1.272500,83.595,120.169,155.700,-6044.830000,-6029.399000
+F4,YBa2Cu3O7_553_Frenkel4.log,ok,5001,5001,0.000000,2.500000,141.551,191.559,219.000,-6045.444000,-6022.944000

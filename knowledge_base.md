@@ -8,6 +8,30 @@ originSessionId: bd8023f0-7957-4564-ab1c-00a46dd930bd
 
 ---
 
+## Current Direction Update (2026-05-24)
+
+The previous four-stage plan based on NEB, quenching, MSD diffusion extraction,
+and VDOS-derived formation free energy is no longer the main project route.
+
+The current supervisor-guided direction is:
+
+- run higher-temperature MD, especially around 600 K and 800 K;
+- compare oxygen interstitials placed at different candidate sites;
+- focus on whether oxygen interstitials produce c-axis elongation in REBCO;
+- use c-axis-flexible MD as the main workflow, with fixed-cell NVT only as a
+  control;
+- do not prioritize quenching, diffusion coefficients, vibrational entropy, or
+  defect formation free energy at this stage.
+
+The active workflow is documented in:
+
+- `high_temperature_interstitial_README.md`
+
+Older VDOS and free-energy notes are retained as background only, not as the
+current execution plan.
+
+---
+
 ## 1. Research Context & Motivation
 
 ### 1.1 One-sentence Summary

@@ -1,0 +1,6 @@
+case_id,traj_file,n_frames,n_atoms,time_start_ps,time_end_ps,tracked_oi_atom_index,tracked_oi_start_site_distance_A,tracked_oi_initial_to_vacancy_distance_A,tracked_oi_min_to_vacancy_distance_A,tracked_oi_final_to_vacancy_distance_A,vacancy_site_initial_nearest_O_distance_A,vacancy_site_min_nearest_O_distance_A,vacancy_site_final_nearest_O_distance_A,max_occupied_O_Cu_coordination,vacancy_occupied_fraction,coordination_recovered_fraction,first_sustained_occupancy_time_ps,first_sustained_recombination_time_ps,recombined,outcome_class,timeseries_csv
+F1,Frankel_md_77K.traj,1,975,0.000000,0.000000,742,2.380426,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,2,1.000000,1.000000,,,unclear,single-frame only,F1_Frankel_md_77K_timeseries.csv
+F3,YBa2Cu3O7_553_Frenkel3_113.traj,2546,40,0.000000,1.272500,39,0.000000,5.902199,5.714095,5.990226,3.819000,3.693732,3.753035,1,0.000000,0.000000,,,no,separated/metastable over sampled window,F3_YBa2Cu3O7_553_Frenkel3_113_timeseries.csv
+F3,YBa2Cu3O7_553_Frenkel3_331.traj,2546,117,0.000000,1.272500,116,0.000000,5.902199,5.714095,5.990226,2.723875,2.266280,2.363579,2,0.000000,0.000000,,,no,separated/metastable over sampled window,F3_YBa2Cu3O7_553_Frenkel3_331_timeseries.csv
+F2,,0,0,,,,,,,,,,,,,,,,not assessed,missing trajectory,
+F4,,0,0,,,,,,,,,,,,,,,,not assessed,missing trajectory,

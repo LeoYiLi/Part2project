@@ -1,11 +1,16 @@
-# Large trajectory files (>100MB)
+# Trajectory files are often too large for GitHub.
+*.traj
+
+# Specific historical large trajectory files
 Frankel2_md_298K.traj
 YBa2Cu3O7_md_298K.traj
 Vacancy_md_298K.traj
 Frankel_md_298K.traj
 Interstitial_md_298K.traj
 YBa2Cu3O7_553_Frenkel3.traj
+YBa2Cu3O7_553_Frenkel4.traj
 yba553_md_30K.traj
+high_temperature_interstitial/**/*.traj
 
 # Large xyz files (>100MB)
 Frankel_md_298K.xyz
